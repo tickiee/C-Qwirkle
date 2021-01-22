@@ -1,0 +1,42 @@
+***Game Menu***
+1. New Game
+2. Load Game
+3. Show student information
+4. Quit
+
+Enter choice: 
+
+Starting a New Game
+
+How many players are there?
+Minimum 2 Players
+Maximum 4 Players
+
+Enter a name for player 1
+
+Enter a name for player 2
+
+Enter a name for player 3
+
+Enter a name for player 4
+
+Welcome Rico, Merhawi, Sid, Darren
+
+Rico, it's your turn
+Score for Rico: 0
+Score for Merhawi: 0
+Score for Sid: 0
+Score for Darren: 0
+
+      0    2    4    6
+   ------------------------
+A  |    |    |    |    |
+B     |    |    |    |    |
+C  |    |    |    |    |
+D     |    |    |    |    |
+E  |    |    |    |    | 
+F     |    |    |    |    |
+   ------------------------
+         1    3    5    7
+
+Your hand is R5,P3,O1,G6,Y4,P6

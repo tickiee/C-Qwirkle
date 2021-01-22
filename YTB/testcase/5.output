@@ -1,0 +1,29 @@
+
+=====Qwirkle Main Menu=====
+1. New Game
+2. Load Game
+3. View Highscores
+4. Show Student Information
+5. Quit
+
+Enter choice: 
+
+
+Starting a New Game
+
+Enter the number of players: 
+Minimum 2 Players
+Minimum 4 Players
+Error - Number of Players error
+Please enter a valid input
+
+--- Tip: Type -help for commands ---
+
+=====Qwirkle Main Menu=====
+1. New Game
+2. Load Game
+3. View Highscores
+4. Show Student Information
+5. Quit
+
+Enter choice: 

@@ -1,0 +1,55 @@
+
+=====Qwirkle Main Menu=====
+1. New Game
+2. Load Game
+3. View Highscores
+4. Show Student Information
+5. Quit
+
+Enter choice: 
+
+5
+
+Quit
+
+Thanks for playing!
+Goodbye.
+
+Ricos-MacBook-Pro:YTB roco$ ./runfile
+
+=====Qwirkle Main Menu=====
+1. New Game
+2. Load Game
+3. View Highscores
+4. Show Student Information
+5. Quit
+
+Enter choice: 
+
+
+Show Student Information
+
+Name: Rico Wu
+Student ID: S3769980
+Email: S3769980@student.rmit.edu.au
+
+Name: Merhawi Minassi
+Student ID: S3668396
+Email: S3668396@student.rmit.edu.au
+
+Name: Jialun Darren Huang
+Student ID: S3755729
+Email: S3755729@student.rmit.edu.au
+
+Name: Siddhartha Raju Chandra
+Student ID: S3731026
+S3731026@student.rmit.edu.au
+
+=====Qwirkle Main Menu=====
+1. New Game
+2. Load Game
+3. View Highscores
+4. Show Student Information
+5. Quit
+
+Enter choice: 

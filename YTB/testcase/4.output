@@ -1,0 +1,24 @@
+
+=====Qwirkle Main Menu=====
+1. New Game
+2. Load Game
+3. View Highscores
+4. Show Student Information
+5. Quit
+
+Enter choice: 
+
+
+Starting a New Game
+
+Enter the number of players: 
+Minimum 2 Players
+Minimum 4 Players
+Enter a name for player 1 (uppercase characters only)
+Enter a name for player 2 (uppercase characters only)
+
+Error - Invalid name
+Player name is not unique
+Please enter a unique name
+
+Enter a name for player 2 (uppercase characters only)
